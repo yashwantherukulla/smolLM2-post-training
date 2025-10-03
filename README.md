@@ -108,6 +108,3 @@ Contributions are welcome! Areas for improvement:
 - Adding KL pernalty to not make the model reward hack
 - Different base models
 - Alternative training strategies
----
-
-*For detailed training logs and interactive visualizations, check the Weights & Biases project dashboard.*
